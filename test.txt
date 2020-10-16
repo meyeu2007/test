@@ -1,4 +1,1 @@
-testing push
-testing ssh
-test3
-test4
+test1
